@@ -1,2 +1,4 @@
-# guessing-game-py-16
+# Guessing Game Py 16
+
 A classic number guessing CLI game in Python.
+
